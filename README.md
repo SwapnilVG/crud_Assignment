@@ -97,6 +97,7 @@ To test the API endpoints, you can use Thunder Client, a REST client extension f
 
 
 ## Folder Structure
+- /config : Database Connection
 - /controllers: Contains the controllers handling user-related operations.
 - /models: Defines the MongoDB data model for the User.
 - /routes: Defines the Express.js routes for handling API endpoints.
